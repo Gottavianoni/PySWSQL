@@ -6,6 +6,7 @@ Home-page: http://github.com/gottavianoni/PySWSQL
 Author: Gottavianoni
 Author-email: guillaume.ottavianoni@gmail.com
 License: WTFPL
+Description-Content-Type: UNKNOWN
 Description: PySWSQL - Librairie permettant le requÃªtage depuis Skywise vers Python
         ======================================================================
         
