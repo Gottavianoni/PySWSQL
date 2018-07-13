@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+PySWSQL/__init__.py
+PySWSQL/authors.jpg
+PySWSQL/core.py
+PySWSQL.egg-info/PKG-INFO
+PySWSQL.egg-info/SOURCES.txt
+PySWSQL.egg-info/dependency_links.txt
+PySWSQL.egg-info/top_level.txt

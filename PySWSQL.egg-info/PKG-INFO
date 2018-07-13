@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: PySWSQL
+Version: 0.0.1
+Summary: Gather pandas DF from Skywise queried with SQL
+Home-page: http://github.com/gottavianoni/PySWSQL
+Author: Gottavianoni
+Author-email: guillaume.ottavianoni@gmail.com
+License: WTFPL
+Description: PySWSQL - Librairie permettant le requÃªtage depuis Skywise vers Python
+        ======================================================================
+        
+        Vous pouvez l'installer avec pip:
+        
+            pip install PySWSQL
+        
+        Exemple d'usage:
+        
+            >>> Import PySWSQL
+            >>> getSWquery()
+        
+        Ce code est sous licence WTFPL.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved
+Classifier: Natural Language :: French
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Communications
